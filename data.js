@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-2",
-      "name": "2",
+      "name": "",
       "levels": [
         {
           "tileSize": 256,
