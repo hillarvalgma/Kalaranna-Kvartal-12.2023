@@ -58,7 +58,7 @@ a, a:hover, a:active, a:visited {
 
 /* If there is a fullscreen button the title bar must make space for it */
 body.fullscreen-enabled #titleBar {
-  right: 10px;
+  right: 0;
 }
 
 body.fullscreen-enabled.mobile #titleBar {
