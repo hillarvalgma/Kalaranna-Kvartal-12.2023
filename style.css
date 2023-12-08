@@ -46,8 +46,8 @@ a, a:hover, a:active, a:visited {
   position: absolute;
   top: 0;
   left: 0;
-  right: 30px;
-  height: 30px;
+  right: 10px;
+  height: 10px;
   text-align: center;
 }
 
@@ -58,7 +58,7 @@ a, a:hover, a:active, a:visited {
 
 /* If there is a fullscreen button the title bar must make space for it */
 body.fullscreen-enabled #titleBar {
-  right: 80px;
+  right: 10px;
 }
 
 body.fullscreen-enabled.mobile #titleBar {
