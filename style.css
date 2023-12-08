@@ -46,8 +46,8 @@ a, a:hover, a:active, a:visited {
   position: absolute;
   top: 0;
   left: 0;
-  right: 10px;
-  height: 10px;
+  right: 0;
+  height: 0;
   text-align: center;
 }
 
